@@ -15,7 +15,7 @@ This project is for driving a matrix of addressable LEDs. The size is configured
 It works like this: arduino receives a serial command, which sends a python program, on which the server is also spinning.
 
 Code for arduino: https://www.github.com/mrkuznetsov698/led-matrix-control-arduino
-To open and download, you need to install the platform extension in VS code
+To open and upload, you need to install the platformio extension in VS code
 
 Python program: https://www.github.com/mrkuznetsov698/led-matrix-control-server
 The program is written in Jetbrains Pycharm and the interface is written in Jetbrains WebStorm
