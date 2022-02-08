@@ -10,7 +10,19 @@
 Программа на python: https://www.github.com/mrkuznetsov698/led-matrix-control-server
 Программа написана в Jetbrains Pycharm, а frontend - в Jetbrains WebStorm
 
-## Ссылки
+## English
+This project is for driving a matrix of addressable LEDs. The size is configured from js.
+It works like this: arduino receives a serial command, which sends a python program, on which the server is also spinning.
+
+Code for arduino: https://www.github.com/mrkuznetsov698/led-matrix-control-arduino
+To open and download, you need to install the platform extension in VS code
+
+Python program: https://www.github.com/mrkuznetsov698/led-matrix-control-server
+The program is written in Jetbrains Pycharm and the interface is written in Jetbrains WebStorm
+
+
+
+## Links/Ссылки
 * IDE
     * JetBrains Pycharm - https://jetbrains.com/pycharm
     * JetBrains WebStorm - https://jetbrains.com/webstorm
